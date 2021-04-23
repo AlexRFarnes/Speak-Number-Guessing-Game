@@ -18,9 +18,9 @@ A numer guessing game made with the Web Speech API where the user must speak the
 
 ## Screenshots
 
-![Screenshot](https://user-images.githubusercontent.com/57517804/115818213-e3122480-a42e-11eb-9dac-f0844ddd9065.png)
+![Screenshot](https://user-images.githubusercontent.com/57517804/115824684-e4494e80-a43a-11eb-9976-aede998730a7.png)
 
-[Demo](https://dreamy-kepler-997c59.netlify.app)
+[Demo](https://upbeat-fermat-fa3825.netlify.app)
 
 ## Built With
 
